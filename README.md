@@ -1,6 +1,6 @@
 # Personal website
 
-Now editing on update_readme branch
+This is really awesome website
 
-Updating locally
+Updates made on main in GitHub before rebase
 
